@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yneur.csgad.com/onC/sitemap.xml.gz
